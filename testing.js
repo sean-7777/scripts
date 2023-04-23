@@ -1,4 +1,3 @@
-export const requires = ["@getValue"];
-export default function main({ getValue }) {
-  console.log(getValue);
+export default function main(...arguments) {
+  console.log(arguments);
 }
