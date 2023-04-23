@@ -1,3 +1,3 @@
-export default function main(...arguments) {
-  console.log(arguments);
+export default function main(...args) {
+  console.log(args);
 }
