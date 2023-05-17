@@ -1,3 +1,5 @@
-export default function main() {
+function main() {
   alert("Hello World!");
 }
+
+main()
